@@ -5,7 +5,7 @@ env:
   NODE_VERSION: '12.x'                # set this to the node version to use
   RESOURCE_GROUP_NAME: 'AZ-400'
   APP_SERVICE_PLAN: 'cloudskillsjsplan'
-  APP_SERVICE: 'cloudskillsjs'
+  APP_SERVICE: 'cloudskills1js'
 
 jobs:
   build-and-deploy:
